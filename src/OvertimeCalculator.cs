@@ -2,11 +2,9 @@ using System;
 
 /// <summary>
 /// Programa de consola para calcular el valor y total de horas extras de un empleado.
-/// <para>
 /// Solicita al usuario los datos necesarios (nombre, salario mensual, horas trabajadas
 /// y horas ordinarias contractuales) y calcula el valor de la hora extra y el monto total
 /// a pagar por dichas horas.
-/// </para>
 /// </summary>
 /// <author>Elias Santander</author>
 /// <version>1.0</version>
